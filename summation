@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main(){
+	int num_1,num_2;
+	cout<<"enter two numbers\n";
+	cin>>num_1>>num_2;
+	cout<<"the sum of intger number is : "<<num_1+num_2<<"\n";
+	return 0;
+}
